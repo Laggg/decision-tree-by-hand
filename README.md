@@ -1,2 +1,2 @@
 # Decision-tree-by-hand
-If you need to understand alghoritm or you need to write code - welcome
+If you need to understand algorithm or you need to write code - welcome
